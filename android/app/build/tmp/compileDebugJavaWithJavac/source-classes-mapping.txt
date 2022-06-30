@@ -1,0 +1,14 @@
+com/faceitfeedtest/MainApplication.java
+ com.faceitfeedtest.MainApplication
+ com.faceitfeedtest.MainApplication$1
+com/faceitfeedtest/BuildConfig.java
+ com.faceitfeedtest.BuildConfig
+com/faceitfeedtest/ReactNativeFlipper.java
+ com.faceitfeedtest.ReactNativeFlipper
+ com.faceitfeedtest.ReactNativeFlipper$1
+ com.faceitfeedtest.ReactNativeFlipper$2
+ com.faceitfeedtest.ReactNativeFlipper$2$1
+com/faceitfeedtest/MainActivity.java
+ com.faceitfeedtest.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
